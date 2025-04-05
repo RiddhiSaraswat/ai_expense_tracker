@@ -145,8 +145,7 @@ elif authentication_status:
     # Your full app logic (input forms, prediction, charts, goals, insights, chatbot, etc.) should come here
     st.title("💸 AI Expense Tracker: Master Your Money with AI")
 
-    # EXAMPLE: Add your features below this section...
-    st.write("This is where the rest of your app will run after login.")
+   
 
     # TIP: Paste the rest of your old app logic from your original file below this point!
 
